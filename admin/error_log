@@ -1,0 +1,13 @@
+[17-Feb-2022 06:21:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'um29xl32_root	'@'localhost' (using password: YES) in /home/um29xl32/public_html/gere/config.php on line 11
+[17-Feb-2022 06:22:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'um29xl32_root	'@'localhost' (using password: YES) in /home/um29xl32/public_html/gere/config.php on line 11
+[17-Feb-2022 06:22:04 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/admin/login.php on line 40
+[17-Feb-2022 06:22:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/admin/login.php on line 87
+[17-Feb-2022 06:22:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'um29xl32_root	'@'localhost' (using password: YES) in /home/um29xl32/public_html/gere/config.php on line 11
+[17-Feb-2022 06:22:10 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/admin/login.php on line 40
+[17-Feb-2022 06:22:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/admin/login.php on line 87
+[17-Feb-2022 06:22:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'um29xl32_root	'@'localhost' (using password: YES) in /home/um29xl32/public_html/gere/config.php on line 11
+[17-Feb-2022 06:22:32 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/admin/login.php on line 40
+[17-Feb-2022 06:22:32 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/admin/login.php on line 87
+[17-Feb-2022 06:24:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/um29xl32/public_html/gere/admin/login.php on line 59
+[17-Feb-2022 06:44:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/um29xl32/public_html/gere/admin/login.php on line 59
+[18-Feb-2022 02:06:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/um29xl32/public_html/gere/admin/login.php on line 59
