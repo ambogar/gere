@@ -1,0 +1,16 @@
+[17-Feb-2022 06:22:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'um29xl32_root	'@'localhost' (using password: YES) in /home/um29xl32/public_html/gere/config.php on line 11
+[17-Feb-2022 06:22:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/index.php on line 95
+[17-Feb-2022 06:22:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/index.php on line 99
+[17-Feb-2022 06:22:44 UTC] PHP Notice:  Undefined variable: last_id in /home/um29xl32/public_html/gere/index.php on line 102
+[17-Feb-2022 06:22:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'um29xl32_root	'@'localhost' (using password: YES) in /home/um29xl32/public_html/gere/config.php on line 11
+[17-Feb-2022 06:22:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/storeimage.php on line 22
+[17-Feb-2022 06:23:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'um29xl32_root	'@'localhost' (using password: YES) in /home/um29xl32/public_html/gere/config.php on line 11
+[17-Feb-2022 06:23:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/index.php on line 95
+[17-Feb-2022 06:23:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/index.php on line 99
+[17-Feb-2022 06:23:16 UTC] PHP Notice:  Undefined variable: last_id in /home/um29xl32/public_html/gere/index.php on line 102
+[17-Feb-2022 06:23:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'um29xl32_root	'@'localhost' (using password: YES) in /home/um29xl32/public_html/gere/config.php on line 11
+[17-Feb-2022 06:23:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/um29xl32/public_html/gere/storeimage.php on line 22
+[17-Feb-2022 06:24:21 UTC] PHP Notice:  Undefined variable: last_id in /home/um29xl32/public_html/gere/index.php on line 102
+[17-Feb-2022 06:24:42 UTC] PHP Notice:  Undefined variable: last_id in /home/um29xl32/public_html/gere/index.php on line 102
+[17-Feb-2022 06:29:04 UTC] PHP Notice:  Undefined variable: last_id in /home/um29xl32/public_html/gere/index.php on line 102
+[17-Feb-2022 06:44:23 UTC] PHP Notice:  Undefined variable: last_id in /home/um29xl32/public_html/gere/index.php on line 102
